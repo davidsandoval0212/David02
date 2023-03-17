@@ -1,0 +1,31 @@
+.logo{
+    height: 160px;
+    width: 160px;
+}
+
+main{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+.boton{
+    height: 60px;
+    background-color: red ;
+    border-radius: 156px;
+    padding-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.botonVerde{
+    height: 60px;
+    background-color: green;
+    border-radius: 156px;
+}
+.botonAzul{
+    height: 60px;
+    background-color: blue;
+    border-radius: 156px;
+}
